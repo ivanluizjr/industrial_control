@@ -1,0 +1,16 @@
+flutter_native_splash:
+  color: "#17192D"
+  image: assets/logos/logo_tractian_splash.png
+  branding: #assets/logos/logo_tractian.png
+  color_dark: "#17192D"
+  image_dark: #assets/logos/logo_tractian.png
+  ios: true
+  android: true
+
+  android_12:
+    image: assets/logos/logo_tractian_splash.png
+    icon_background_color: "#17192D"
+    image_dark: #assets/logos/logo_tractian.png
+    icon_background_color_dark: "#17192D"
+
+  web: false
